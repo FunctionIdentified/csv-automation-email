@@ -1,0 +1,10 @@
+{
+    "sender": {
+        "email": "john.doe@gmail.com",
+        "password": "your_password"
+    },
+    "email": {
+        "subject": "Hello, world!",
+        "body": "This is a test email."
+    }
+}
